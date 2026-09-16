@@ -42,7 +42,7 @@ make
 
 ### AI Usage
 
-AI assistance (Antigravity / Claude Sonnet) was used to:
+AI assistance was used to:
 - Understand Docker networking and volume concepts
 - Debug shell script initialization sequences
 - Review Dockerfile and configuration files for compliance with subject rules
